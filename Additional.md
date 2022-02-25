@@ -11,4 +11,8 @@
 * Что такое GitHub
 * Что такое Markdown
 * Что такое Markdown1
+<<<<<<< HEAD
+* Что такое Markdown234
+=======
 * Что такое Markdown23
+>>>>>>> 17541740ff39862670f273377aa7988dbf2d199a
